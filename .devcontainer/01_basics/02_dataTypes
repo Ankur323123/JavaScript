@@ -1,0 +1,8 @@
+let name1 = "Ankur"
+let age =20
+let isLoggedin= false 
+
+console.log([age,isLoggedin,name1]);
+
+console.log(typeof "Ankur1");
+console.log(typeof undefined);
