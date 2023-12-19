@@ -1,0 +1,5 @@
+let score = 100
+console.log(-score);
+console.log(2**3);
+console.log(2%3);
+console.log(201 + 1 + "1" + 5);
