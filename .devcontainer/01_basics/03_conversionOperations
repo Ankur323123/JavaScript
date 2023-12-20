@@ -3,3 +3,23 @@ console.log(-score);
 console.log(2**3);
 console.log(2%3);
 console.log(201 + 1 + "1" + 5);
+const heros = ["ABC", "xyz","PQRS"]
+console.log(heros);
+
+let obj =
+{
+  name: "Ankur",
+  age: 22,
+
+
+} 
+const myfunction = function(){
+
+    console.log("Hello");
+}
+console.log(typeof myfunction);
+
+let name1="Ankur"
+let name2=name1
+name2 ="xyz"
+console.log([name1,name2]);
